@@ -1,4 +1,4 @@
-# Ignite ReactJS - Challenge 01
+# Ignite NodeJS - Challenge 01
 
 - [x] Criar um usuário
 - [x] Criar novo *to-do*
